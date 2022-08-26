@@ -25,4 +25,4 @@ for(int i = 0; i < mass.Length; i++){
     } 
 }
 
-Console.Write("Ответ: " + Convert.ToInt32(m));
+Console.Write("Ответ: " + Convert.ToString(m));
